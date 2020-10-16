@@ -1,0 +1,7 @@
+{
+  "items": [
+      {"alt": "mutfak1", "img": "img/mutfak1.jpg"},
+      {"alt": "mutfak2", "img": "img/mutfak2.jpg"},
+      {"alt": "mutfak3", "img": "img/mutfak3.jpg"}
+    ]
+}

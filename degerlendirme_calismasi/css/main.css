@@ -1,0 +1,27 @@
+.navbar-header{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 80px;
+}
+
+.h3header{
+    margin-top: 20px;
+}
+.newsletter{
+    background-color: gainsboro; 
+    padding-bottom: 20px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+}
+
+.menu-item{
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    color: "black";
+    width: 100%;
+    font-style: normal;
+    display: inline-block;
+    white-space: nowrap;
+    font-weight: 700;
+    font-size: 15px;
+}
